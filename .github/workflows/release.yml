@@ -14,4 +14,4 @@ jobs:
     - name: make
       run: cd build && make
     - name: Run Test
-      run: /home/runner/work/test1/test1/build/test/test1.test
+      run: /home/runner/work/test3/test3/build/test/test3.test
